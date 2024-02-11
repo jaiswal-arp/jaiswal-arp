@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Enthusiast
 ---------------
 
-A driven and innovative Master’s candidate at Northeastern University with a specialization in Data Science and Analytics. I bring a blend of technical understanding and innovative problem-solving skills. My expertise lies in AI, machine learning, data analysis, and cloud technologies, backed by professional experience at Tata Consultancy Services. I thrive on turning complex data into actionable insights and have a proven track record in developing cutting-edge projects like an AI-powered fashion Discovery Platform. Let's connect and explore how my skills and experiences can contribute to your team's success.
+A driven and innovative Master’s candidate from Northeastern University with a specialization in Data Science and Analytics. I bring a blend of technical understanding and innovative problem-solving skills. My expertise lies in AI, machine learning, data analysis, and cloud technologies, backed by professional experience at Tata Consultancy Services. I thrive on turning complex data into actionable insights and have a proven track record in developing cutting-edge projects like an AI-powered fashion Discovery Platform. Let's connect and explore how my skills and experiences can contribute to your team's success.
 
 * 🌍  I'm based in Boston, MA, USA
 * ✉️  You can contact me at [arpitajaiswal9522@gmail.com](mailto:arpitajaiswal9522@gmail.com)
