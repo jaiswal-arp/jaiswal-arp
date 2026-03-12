@@ -1,16 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arpita Jaiswal
 ======================================================================================================================================
 
-Data Enthusiast
+Data Engineer
 ---------------
 
-A driven and innovative Master’s candidate from Northeastern University with a specialization in Data Science and Analytics. I bring a blend of technical understanding and innovative problem-solving skills. My expertise lies in AI, machine learning, data analysis, and cloud technologies, backed by professional experience. I thrive on turning complex data into actionable insights and have a proven track record in developing cutting-edge projects like an AI-powered chatbot & fashion recommendation. Let's connect and explore how my skills and experiences can contribute to your team's success.
+A data engineer with experience building scalable data pipelines and analytics datasets that power product, analytics, and machine learning workflows. I specialize in designing reliable ETL systems, optimizing large-scale data processing, and developing data infrastructure on cloud platforms like AWS. My work focuses on transforming complex data into analytics-ready datasets that enable teams to make better product and business decisions.
 
-* 🌍  I'm based in Boston, MA, USA
-* ✉️  You can contact me at [arpitajaiswal9522@gmail.com](mailto:arpitajaiswal9522@gmail.com)
-* 🧠  I'm learning LlamaIndex, a robust tool for efficient data indexing and querying, to enhance my data management and analysis skills
-* 🤝  I'm open to collaborating on projects involving advanced data analytics, machine learning models, and innovative AI applications, especially those that challenge the status quo and push the boundaries of technology in solving real-world problems.
-* ⚡  I love exploring new places
+🌍 I'm based in McKinney, TX, USA
+
+✉️ You can contact me at arpitajaiswal9522@gmail.com
+
+🧠 Currently exploring advanced data processing and modern data stack tools to build more scalable and efficient data pipelines
+
+🤝 I'm open to collaborating on projects involving data engineering, analytics platforms, ETL pipelines, and scalable data systems
+
+⚡ I enjoy exploring new places and learning about history
 
 ### Skills
 
